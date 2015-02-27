@@ -1,0 +1,381 @@
+/* ==========================================================================
+   Document Layout
+   ========================================================================== */
+
+.knowledgebase-main:before, .knowledgebase-main:after {
+  display: table;
+  content: " ";
+}
+.knowledgebase-main {
+  overflow: hidden;
+}
+
+/* ==========================================================================
+   Main Knowledge Base Page
+   ========================================================================== */
+
+.knowledgebase-row {
+  clear: both;
+}
+.knowledgebase-main ul {
+  margin: 0;
+  padding: 0;
+}
+.knowledgebase-main li {
+  line-height: 1.8em;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.knowledgebase-main li a {
+  margin-left: 0;
+}
+.knowledgebase-main h2 {
+  margin: 0 0 10px;
+}
+.knowledgebase-columns-2, .knowledgebase-columns-3, .knowledgebase-columns-4 {
+  float:left;
+  margin-bottom: 40px;
+}
+.knowledgebase-columns-2 {
+  width: 50%;
+}
+.knowledgebase-columns-3 {
+  width: 33.3333%;
+}
+.knowledgebase-columns-4 {
+  width: 25%;
+}
+
+
+/* ==========================================================================
+   Knowledge Base Categories
+   ========================================================================== */
+
+.knowledgebase-archive {
+  margin: 0 0 15px;
+}
+.knowledgebase-archive > a, .knowledgebase-archive > a:hover {
+  text-decoration: none;
+}
+.knowledgebase-archive > a {
+  display: block;
+  clear: both;
+  padding: 18px 22px;
+  background-color: rgba(0, 0, 0, 0.03);
+  margin: 0;
+  font-weight: 500;
+  font-size: 1.2em;
+}
+.knowledgebase-archive a:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+/* ==========================================================================
+   Knowledge Base Single
+   ========================================================================== */
+
+.knowledgebase-meta p{
+  display: inline-block;
+  margin: 0;
+}
+.knowledgebase-meta ul {
+  padding: 0;
+  margin: 0;
+  display: inline;
+}
+.knowledgebase-meta li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: inline;
+}
+.knowledgebase-meta li:after { 
+  content:", ";
+}
+.knowledgebase-meta li:last-child:after { 
+  content:"";
+}
+.knowledgebase-single a:hover, .knowledgebase-main a:hover {
+  text-decoration: underline;
+}
+.knowledgebase-single .wp-post-image {
+  margin-bottom: 20px;
+}
+.knowledgebase-single header h1 {
+  margin: 0 0 20px;
+}
+.knowledgebase-meta {
+  font-size: 0.9em;
+}
+.knowledgebase-content {
+  border-top: solid 1px #eee;
+  border-bottom: solid 1px #eee;
+  margin: 20px 0;
+  padding: 20px 0;
+}
+
+/* ==========================================================================
+   Knowledgebase Widgets
+   ========================================================================== */
+
+.kb-subcategory {
+  margin-left: 15px;
+}
+.widget_knowledgebase_search_posts input {
+  width: 100%;
+}
+/* ==========================================================================
+   Knowledgebase Search
+   ========================================================================== */
+
+.knowledgebase-search * {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.knowledgebase-search {
+  position: relative;
+  display: table;
+  border-collapse: separate;
+  margin-bottom: 40px;
+}
+.knowledgebase-search input[type="text"] {
+  display: table-cell;
+  width: 100%;
+  margin-bottom: 0;
+  border: 1px solid #ccc;
+  height: 50px;
+  padding: 8px 12px;
+  font-size: 1em;
+  line-height: 1.428571429;
+  color: #555;
+  vertical-align: middle;
+}
+.knowledgebase-search input[type="text"]:focus {
+  border: solid 1px #999;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+.knowledgebase-search span {
+  position: relative;
+  white-space: nowrap;
+  width: 1%;
+  white-space: nowrap;
+  vertical-align: middle;
+  display: table-cell;
+}
+.knowledgebase-search input[type="submit"] {
+  display: inline-block;
+  height: 50px;
+  padding: 5px 40px;
+  font-size: 1em;
+  background-color: #222;
+  margin-left: 8px;
+  color: #fff;
+  font-weight: 500;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  border: 0;
+}
+.knowledgebase-search input[type="submit"]:hover {
+  background-color: #000;
+}
+
+/* ==========================================================================
+   Knowledgebase Voting
+   ========================================================================== */
+
+.votes {
+  margin-bottom: 20px;
+}
+p.likes, p.dislikes {
+  width: 54px;
+  height: 31px;
+  border-radius: 4px;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  line-height: 14px;
+}
+p.likes {
+  background-color: #94bc1a;
+  margin-right: 10px;
+}
+p.dislikes {
+  background-color: #c84848;
+}
+.likes i, .dislikes i {
+  font-size: 14px;
+}
+.votes .count {
+  box-sizing: border-box;
+  font-size: 14px;
+  font-weight: 300;
+  z-index: 1;
+}
+a.pakb-like-btn, a.pakb-dislike-btn {
+  color: #fff!important;
+  padding: 13px 3px 14px 0;
+  text-decoration: none;
+  position: relative;
+  top: 8px;
+}
+a.pakb-like-btn:hover, a.pakb-dislike-btn:hover {
+  color: #fff;
+  text-decoration: none;
+}
+.votes > p > i, .votes > p > span {
+  position: relative;
+  top: 8px;
+}
+
+/* ==========================================================================
+   Bootstrap Toottip
+   ========================================================================== */
+
+.tooltip {
+  position: absolute;
+  z-index: 1030;
+  display: block;
+  visibility: visible;
+  font-size: 12px;
+  line-height: 1.4;
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+.tooltip.in {
+  opacity: 0.9;
+  filter: alpha(opacity=90);
+}
+.tooltip.top {
+  margin-top: -3px;
+  padding: 5px 0;
+}
+.tooltip-inner {
+  max-width: 200px;
+  padding: 3px 8px;
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  background-color: #000000;
+  border-radius: 4px;
+}
+.tooltip-arrow {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+}
+.tooltip.top .tooltip-arrow {
+  bottom: 0;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px 5px 0;
+  border-top-color: #000000;
+}
+.tooltip.top-left .tooltip-arrow {
+  bottom: 0;
+  left: 5px;
+  border-width: 5px 5px 0;
+  border-top-color: #000000;
+}
+.tooltip.top-right .tooltip-arrow {
+  bottom: 0;
+  right: 5px;
+  border-width: 5px 5px 0;
+  border-top-color: #000000;
+}
+
+
+/* =============================================================================
+   Media Queries
+   ========================================================================== */
+
+@media (max-width: 767px) {
+  .knowledgebase-columns-2, .knowledgebase-columns-3, .knowledgebase-columns-4 {
+    width: 100%!important;
+  }
+}
+
+
+/* ==========================================================================
+   Font Icons
+   ========================================================================== */
+
+@font-face {
+  font-family: 'pakb-fontello';
+  src: url('../font/fontello.eot?2196930');
+  src: url('../font/fontello.eot?2196930#iefix') format('embedded-opentype'),
+       url('../font/fontello.woff?2196930') format('woff'),
+       url('../font/fontello.ttf?2196930') format('truetype'),
+       url('../font/fontello.svg?2196930#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'pakb-fontello';
+    src: url('../font/fontello.svg?2196930#fontello') format('svg');
+  }
+}
+*/
+ 
+ [class^="pakb-icon-"]:before, [class*=" pakb-icon-"]:before {
+  font-family: 'pakb-fontello';
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+     
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+
+.knowledgebase-main [class^="pakb-icon-"]:before, .knowledgebase-main [class*=" pakb-icon-"]:before {
+  min-width: 40px;
+  margin-right: 9px;
+  margin-left: 0;
+}
+
+.pakb-icon-right-dir:before { content: '\e808'; } /* '' */
+.pakb-icon-down-dir:before { content: '\e809'; } /* '' */
+.pakb-icon-th:before { content: '\e80a'; } /* '' */
+.pakb-icon-doc-text:before { content: '\e802'; } /* '' */
+.pakb-icon-angle-up:before { content: '\e807'; } /* '' */
+.pakb-icon-quote-right:before { content: '\e804'; } /* '' */
+.pakb-icon-folder-empty:before { content: '\e805'; } /* '' */
+.pakb-icon-folder-open-empty:before { content: '\e806'; } /* '' */
+.pakb-icon-picture:before { content: '\e801'; } /* '' */
+.pakb-icon-video:before { content: '\e800'; } /* '' */
+.pakb-icon-thumbs-up:before { content: '\e80b'; } /* '' */
+.pakb-icon-thumbs-down:before { content: '\e80c'; } /* '' */
+.pakb-icon-link:before { content: '\e803'; } /* '' */
+

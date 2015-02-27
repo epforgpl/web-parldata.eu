@@ -1,0 +1,1036 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scribe\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-05-30 10:47-0800\n"
+"PO-Revision-Date: 2014-05-30 10:47-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:18
+msgid ""
+"Sorry, but the page you are looking for has moved or no longer exists. "
+"Please use the search below."
+msgstr ""
+
+#: ../archive.php:52 ../category.php:52 ../index.php:70
+#: ../page-blog-full.php:74 ../page-blog.php:72 ../search.php:52
+#: ../single.php:48
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:28
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:31
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Post A Comment"
+msgstr ""
+
+#: ../comments.php:55
+#, php-format
+msgid "Post A Reply to %s"
+msgstr ""
+
+#: ../comments.php:56
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:57
+msgid "Submit"
+msgstr ""
+
+#: ../comments.php:58
+msgid "Write your message here..."
+msgstr ""
+
+#: ../comments.php:62
+msgid "Your Full Name"
+msgstr ""
+
+#: ../comments.php:63
+msgid "E-mail Address"
+msgstr ""
+
+#: ../comments.php:64
+msgid "Website"
+msgstr ""
+
+#: ../functions.php:153
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:459
+msgid "Portfolio"
+msgstr ""
+
+#: ../functions.php:460
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../functions.php:461
+msgid "Add New Item"
+msgstr ""
+
+#: ../functions.php:462 ../functions.php:464
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../functions.php:463
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../functions.php:465
+msgid "View Item"
+msgstr ""
+
+#: ../functions.php:466
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../functions.php:467
+msgid "No portfolio items found"
+msgstr ""
+
+#: ../functions.php:468
+msgid "No portfolio items found in trash"
+msgstr ""
+
+#: ../functions.php:496 ../functions.php:498
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../functions.php:497
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../functions.php:499
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../functions.php:500
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../functions.php:501
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../functions.php:502
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: ../functions.php:503
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: ../functions.php:504
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: ../functions.php:505
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: ../functions.php:506
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: ../functions.php:507
+msgid "Popular Portfolio Categories"
+msgstr ""
+
+#: ../functions.php:508
+msgid "Separate portfolio categories with commas"
+msgstr ""
+
+#: ../functions.php:509
+msgid "Add or remove portfolio categories"
+msgstr ""
+
+#: ../functions.php:510
+msgid "Choose from the most used portfolio categories"
+msgstr ""
+
+#: ../functions.php:511
+msgid "No portfolio categories found."
+msgstr ""
+
+#: ../functions.php:552
+msgid "Thumbnail"
+msgstr ""
+
+#: ../functions.php:748
+msgid "Search for:"
+msgstr ""
+
+#: ../index.php:11
+msgid "Latest Posts"
+msgstr ""
+
+#: ../search.php:73
+msgid "Nothing Found"
+msgstr ""
+
+#: ../search.php:76
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../searchform.php:11
+msgid "Start Typing..."
+msgstr ""
+
+#: ../admin/metabox-functions.php:30
+msgid "Add a Gallery"
+msgstr ""
+
+#: ../admin/metabox-functions.php:48
+msgid "Add Main Video"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:11
+msgid "Logo & Favicon"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:20
+msgid "Logo Upload"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:31
+msgid "Footer Logo Upload"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:42
+msgid "Favicon Upload"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:60
+msgid "Highlight Color"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:76
+msgid "Background Color"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:86
+msgid "Typography"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:96
+msgid "Select a Font"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:107
+msgid "Footer"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:115
+msgid "Footer Widget Columns"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:126
+msgid "Social Settings"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:136
+msgid "Twitter username"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:149
+msgid "Facebook username"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:161
+msgid "Pinterest url"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:173
+msgid "Google1 url"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:186
+msgid "Dribbble url"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:198
+msgid "Tumblr url"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:210
+msgid "YouTube url"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:222
+msgid "Instagram url"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:234
+msgid "Vimeo url"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:246
+msgid "Stack Overflow url"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:258
+msgid "LinkedIn url"
+msgstr ""
+
+#: ../admin/meta/metabox.php:14
+msgid "Dynamic Heading Text"
+msgstr ""
+
+#: ../admin/meta/metabox.php:39
+msgid "Enter replacement text "
+msgstr ""
+
+#: ../admin/meta/metabox.php:42
+msgid " (Wrap title text to be replaced in 'span' tags)"
+msgstr ""
+
+#: ../admin/metabox/init.php:243
+msgid "Clear"
+msgstr ""
+
+#: ../admin/metabox/init.php:244
+msgid "Default"
+msgstr ""
+
+#: ../admin/metabox/init.php:245
+msgid "Select Color"
+msgstr ""
+
+#: ../admin/metabox/init.php:246
+msgid "Current Color"
+msgstr ""
+
+#: ../admin/metabox/init.php:1226
+msgid "Save"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:25
+msgid "Test Metabox"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:33 ../admin/metabox/metaboxes.php:262
+msgid "Test Text"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:34 ../admin/metabox/metaboxes.php:44
+#: ../admin/metabox/metaboxes.php:51 ../admin/metabox/metaboxes.php:58
+#: ../admin/metabox/metaboxes.php:66 ../admin/metabox/metaboxes.php:73
+#: ../admin/metabox/metaboxes.php:85 ../admin/metabox/metaboxes.php:91
+#: ../admin/metabox/metaboxes.php:98 ../admin/metabox/metaboxes.php:113
+#: ../admin/metabox/metaboxes.php:121 ../admin/metabox/metaboxes.php:128
+#: ../admin/metabox/metaboxes.php:134 ../admin/metabox/metaboxes.php:140
+#: ../admin/metabox/metaboxes.php:152 ../admin/metabox/metaboxes.php:163
+#: ../admin/metabox/metaboxes.php:174 ../admin/metabox/metaboxes.php:185
+#: ../admin/metabox/metaboxes.php:193 ../admin/metabox/metaboxes.php:200
+#: ../admin/metabox/metaboxes.php:208 ../admin/metabox/metaboxes.php:214
+#: ../admin/metabox/metaboxes.php:226 ../admin/metabox/metaboxes.php:263
+#: ../admin/metabox/metaboxes.php:282 ../admin/metabox/metaboxes.php:289
+#: ../admin/metabox/metaboxes.php:296 ../admin/metabox/metaboxes.php:302
+#: ../admin/metabox/metaboxes.php:308 ../admin/metabox/metaboxes.php:314
+#: ../admin/metabox/metaboxes.php:320 ../admin/metabox/metaboxes.php:337
+msgid "field description (optional)"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:43
+msgid "Test Text Small"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:50
+msgid "Test Text Medium"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:57
+msgid "Website URL"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:65
+msgid "Test Text Email"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:72
+msgid "Test Time"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:78 ../admin/metabox/metaboxes.php:79
+msgid "Time zone"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:84
+msgid "Test Date Picker"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:90
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:97
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:112
+msgid "Test Money"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:120
+msgid "Test Color Picker"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:127
+msgid "Test Text Area"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:133
+msgid "Test Text Area Small"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:139
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:145
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:146
+msgid "This is a title description"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:151
+msgid "Test Select"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:156 ../admin/metabox/metaboxes.php:167
+#: ../admin/metabox/metaboxes.php:178
+msgid "Option One"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:157 ../admin/metabox/metaboxes.php:168
+#: ../admin/metabox/metaboxes.php:179
+msgid "Option Two"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:158 ../admin/metabox/metaboxes.php:169
+#: ../admin/metabox/metaboxes.php:180
+msgid "Option Three"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:162
+msgid "Test Radio inline"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:173
+msgid "Test Radio"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:184
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:192
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:199
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:207
+msgid "Test Checkbox"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:213
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:218
+msgid "Check One"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:219
+msgid "Check Two"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:220
+msgid "Check Three"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:225
+msgid "Test wysiwyg"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:232
+msgid "Test Image"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:233
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:238
+msgid "Multiple Files"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:239
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:244
+msgid "oEmbed"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:245
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
+"Embeds</a>."
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:254
+msgid "About Page Metabox"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:275
+msgid "User Profile Metabox"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:281
+msgid "Extra Info"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:288
+msgid "Avatar"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:295
+msgid "Facebook URL"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:301
+msgid "Twitter URL"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:307
+msgid "Google+ URL"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:313
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:319
+msgid "User Field"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:332
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: ../admin/metabox/metaboxes.php:336
+msgid "Site Background Color"
+msgstr ""
+
+#: ../admin/metabox/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: ../admin/metabox/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+#: ../admin/metabox/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../admin/metabox/helpers/cmb_Meta_Box_types.php:150
+msgid "Add Row"
+msgstr ""
+
+#: ../admin/metabox/helpers/cmb_Meta_Box_types.php:178
+#: ../admin/metabox/helpers/cmb_Meta_Box_types.php:499
+#: ../admin/metabox/helpers/cmb_Meta_Box_types.php:542
+msgid "Remove"
+msgstr ""
+
+#: ../admin/metabox/helpers/cmb_Meta_Box_types.php:477
+#: ../admin/metabox/helpers/cmb_Meta_Box_types.php:515
+msgid "Add or Upload File"
+msgstr ""
+
+#: ../admin/metabox/helpers/cmb_Meta_Box_types.php:488
+#: ../admin/metabox/helpers/cmb_Meta_Box_types.php:534
+msgid "Remove Image"
+msgstr ""
+
+#: ../admin/metabox/helpers/cmb_Meta_Box_types.php:499
+#: ../admin/metabox/helpers/cmb_Meta_Box_types.php:542
+msgid "File:"
+msgstr ""
+
+#: ../admin/metabox/helpers/cmb_Meta_Box_types.php:499
+#: ../admin/metabox/helpers/cmb_Meta_Box_types.php:542
+msgid "Download"
+msgstr ""
+
+#: ../admin/page-builder/blocks/aq-clear-block.php:43
+msgid ""
+"Use this block to clear the floats between two or more separate blocks "
+"vertically."
+msgstr ""
+
+#: ../admin/page-builder/blocks/aq-column-block.php:43
+#: ../admin/page-builder/blocks/aq-column-block.php:64
+msgid "Drag block items into this column box"
+msgstr ""
+
+#: ../admin/page-builder/blocks/contact-block.php:23
+msgid ""
+"Sorry, this block requires the <a href=\"http://wordpress.org/extend/plugins/"
+"contact-form-7/\">Contact Form 7</a> plugin to be installed & activated."
+msgstr ""
+
+#: ../admin/page-builder/blocks/contact-block.php:39
+msgid ""
+"You do not currently have any contact form setup. Please create a contact "
+"form before setting up this block"
+msgstr ""
+
+#: ../admin/page-builder/blocks/contact-block.php:41
+msgid "Setup contact form"
+msgstr ""
+
+#: ../admin/page-builder/blocks/googlemap-block.php:72
+msgid "Stretch to full width?"
+msgstr ""
+
+#: ../admin/page-builder/blocks/image-block.php:38
+msgid "Use as page background?"
+msgstr ""
+
+#: ../admin/page-builder/blocks/pricetable-block.php:73
+msgid "Feature this column?"
+msgstr ""
+
+#: ../admin/page-builder/classes/class-aq-block.php:36
+msgid ""
+"function AQ_Block::block should not be accessed directly. Output generated "
+"by the "
+msgstr ""
+
+#: ../admin/page-builder/classes/class-aq-block.php:57
+msgid "There are no options for this block."
+msgstr ""
+
+#: ../admin/page-builder/classes/class-aq-page-builder.php:24
+#: ../admin/page-builder/classes/class-aq-page-builder.php:25
+#: ../admin/page-builder/functions/aqpb_config.php:14
+#: ../admin/page-builder/functions/aqpb_config.php:15
+msgid "Page Builder"
+msgstr ""
+
+#: ../admin/page-builder/classes/class-aq-page-builder.php:26
+#: ../admin/page-builder/functions/aqpb_config.php:16
+msgid "aq-page-builder"
+msgstr ""
+
+#: ../admin/page-builder/classes/class-aq-page-builder.php:268
+msgid ""
+"Drag block items from the left into this area to begin building your "
+"template."
+msgstr ""
+
+#: ../admin/page-builder/classes/class-aq-page-builder.php:500
+msgid "This template is empty"
+msgstr ""
+
+#: ../admin/page-builder/classes/class-aq-page-builder.php:645
+msgid "Please select your template first!"
+msgstr ""
+
+#: ../admin/page-builder/classes/class-aq-page-builder.php:662
+#, php-format
+msgid "You don't have any template yet. Let's %s create %s one!"
+msgstr ""
+
+#: ../admin/page-builder/classes/class-aq-page-builder.php:667
+msgid "Choose Your Page Template"
+msgstr ""
+
+#: ../admin/page-builder/classes/class-aq-page-builder.php:701
+msgid "For more information:"
+msgstr ""
+
+#: ../admin/page-builder/classes/class-aq-page-builder.php:702
+msgid ""
+"<a href=\"http://pixelgrapes.com/docs/scribe\" target=\"_blank"
+"\">Documentation</a>"
+msgstr ""
+
+#: ../admin/page-builder/classes/class-aq-page-builder.php:708
+msgid "Overview"
+msgstr ""
+
+#: ../admin/page-builder/functions/aqpb_blocks.php:222
+msgid "Drag block items into this box"
+msgstr ""
+
+#: ../admin/page-builder/functions/aqpb_config.php:21
+msgid ""
+"The page builder allows you to create custom page templates which you can "
+"later use for your pages."
+msgstr ""
+
+#: ../admin/page-builder/functions/aqpb_config.php:22
+msgid ""
+"To use the page builder, start by adding a new template. You can drag and "
+"drop the blocks on the left into the building area on the right of the "
+"screen. Each block has its own unique configuration which you can manually "
+"configure to suit your needs"
+msgstr ""
+
+#: ../admin/page-builder/functions/aqpb_config.php:23
+msgid "Please refer to the"
+msgstr ""
+
+#: ../admin/page-builder/functions/aqpb_config.php:23
+msgid " icon documentation "
+msgstr ""
+
+#: ../admin/page-builder/functions/aqpb_config.php:23
+msgid "for a list of icons which can be used."
+msgstr ""
+
+#: ../admin/page-builder/view/view-builder-page.php:19
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: ../admin/page-builder/view/view-builder-page.php:67
+#: ../admin/page-builder/view/view-builder-page.php:90
+msgid "The "
+msgstr ""
+
+#: ../admin/page-builder/view/view-builder-page.php:67
+msgid " page template has been successfully created"
+msgstr ""
+
+#: ../admin/page-builder/view/view-builder-page.php:75
+msgid "Sorry, the operation was unsuccessful for the following reason(s): "
+msgstr ""
+
+#: ../admin/page-builder/view/view-builder-page.php:90
+msgid " page template has been updated"
+msgstr ""
+
+#: ../admin/page-builder/view/view-builder-page.php:102
+msgid "The template has been successfully deleted"
+msgstr ""
+
+#: ../admin/page-builder/view/view-builder-page.php:125
+msgid "Available Blocks"
+msgstr ""
+
+#: ../admin/page-builder/view/view-builder-page.php:125
+msgid "Deleting"
+msgstr ""
+
+#: ../admin/page-builder/view/view-builder-page.php:130
+msgid "Need help? Use the Help tab in the upper right of your screen."
+msgstr ""
+
+#: ../admin/page-builder/view/view-builder-page.php:197
+msgid "Template Name"
+msgstr ""
+
+#: ../admin/page-builder/view/view-builder-page.php:206
+msgid "Create Template"
+msgstr ""
+
+#: ../admin/page-builder/view/view-builder-page.php:206
+#: ../admin/page-builder/view/view-builder-page.php:267
+msgid "Save Template"
+msgstr ""
+
+#: ../admin/page-builder/view/view-builder-page.php:220
+msgid "Delete Template"
+msgstr ""
+
+#: ../admin/page-builder/view/view-builder-page.php:247
+msgid ""
+"To create a custom page template, give it a name above and click Create "
+"Template. Then choose blocks like text, widgets or tabs &amp; toggles from "
+"the left column to add to this template.\n"
+"\t\t\t\t\t\t\t\t\t<br/><br/>\n"
+"\t\t\t\t\t\t\t\t\tYou can drag and drop the blocks to put them in the order "
+"you want. Click on the small arrow at the corner of each block to reveal "
+"additional configuration options. You can also resize each block by clicking "
+"on either side of the block (Note that some blocks are not resizable)\n"
+"\t\t\t\t\t\t\t\t\t<br/><br/>\n"
+"\t\t\t\t\t\t\t\t\tWhen you have finished building your custom page template, "
+"make sure you click the Save Template button."
+msgstr ""
+
+#: ../admin/sidebars/sbars.php:35 ../admin/sidebars/sbars.php:36
+#: ../admin/sidebars/sbars.php:37 ../admin/sidebars/sbars.php:38
+msgid "Dynamic Sidebar"
+msgstr ""
+
+#: ../admin/sidebars/sbars.php:54
+msgid "Dynamic Sidebar Name"
+msgstr ""
+
+#: ../admin/widgets/flickr/flickr.php:18
+msgid "A widget that displays Flickr photos"
+msgstr ""
+
+#: ../admin/widgets/flickr/flickr.php:80
+msgid "Title:"
+msgstr ""
+
+#: ../admin/widgets/flickr/flickr.php:86
+msgid "Description:"
+msgstr ""
+
+#: ../admin/widgets/flickr/flickr.php:92
+msgid "Flickr ID:"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:165
+#: ../includes/plugins/plugin.php:108
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:166
+#: ../includes/plugins/plugin.php:109
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:167
+#: ../includes/plugins/plugin.php:110
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:168
+msgid "Something went wrong."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:179
+#: ../includes/plugins/class-tgm-plugin-activation.php:491
+#: ../includes/plugins/plugin.php:122
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:180
+#: ../includes/plugins/class-tgm-plugin-activation.php:1847
+#: ../includes/plugins/plugin.php:123
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:181
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:518
+#: ../includes/plugins/class-tgm-plugin-activation.php:2059
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:546
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:705
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1092
+msgid "External Link"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1097
+msgid "Private Repository"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1100
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1104
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1107
+msgid "Required"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1107
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1110
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1112
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1282
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1298
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1299
+msgid "Source"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1300
+msgid "Type"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1301
+msgid "Status"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1319
+msgid "Install"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1320
+msgid "Activate"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1830
+msgid "Install package not available."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1831
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1832
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1833
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1834
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1835
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1846
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1957
+#: ../includes/plugins/class-tgm-plugin-activation.php:1966
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1957
+#: ../includes/plugins/class-tgm-plugin-activation.php:1966
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1958
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1963
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1966
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1967
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1968
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/plugins/plugin.php:111
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/plugins/plugin.php:124
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../includes/tags-comments/tags.php:44 ../includes/tags-comments/tags.php:71
+msgid "(Edit)"
+msgstr ""
+
+#: ../includes/tags-comments/tags.php:69
+msgid "Pingback:"
+msgstr ""

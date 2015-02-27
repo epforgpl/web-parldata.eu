@@ -1,0 +1,400 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Knowledgebase\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-16 15:43-0000\n"
+"PO-Revision-Date: 2014-07-16 15:43-0000\n"
+"Last-Translator: Nabil Kadimi <nabil@kadimi-x-no-spam-x.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_n:1,2;_x:1,2c;_ex:1,2x;esc_attr__;esc_attr_e;_;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../knowledge-base.php:107
+#: ../knowledge-base.php:109
+#: ../knowledge-base.php:110
+msgid "Knowledge Base"
+msgstr ""
+
+#: ../knowledge-base.php:111
+msgid "Add Knowledge Base"
+msgstr ""
+
+#: ../knowledge-base.php:112
+msgid "Add New Knowledge Base"
+msgstr ""
+
+#: ../knowledge-base.php:113
+msgid "Edit Knowledge Base"
+msgstr ""
+
+#: ../knowledge-base.php:114
+msgid "New Knowledge Base"
+msgstr ""
+
+#: ../knowledge-base.php:115
+msgid "View Knowledge Base"
+msgstr ""
+
+#: ../knowledge-base.php:116
+#: ../includes/widget/knowledgebase-search.php:6
+#: ../includes/widget/knowledgebase-search.php:7
+#: ../includes/widget/knowledgebase-search.php:26
+#: ../includes/widget/knowledgebase-search.php:40
+#: ../includes/widget/knowledgebase-search.php:47
+msgid "Search Knowledge Base"
+msgstr ""
+
+#: ../knowledge-base.php:117
+msgid "No Knowledge Base found"
+msgstr ""
+
+#: ../knowledge-base.php:118
+msgid "No Knowledge Base found in Trash"
+msgstr ""
+
+#: ../knowledge-base.php:119
+msgid "All Knowledge Base"
+msgstr ""
+
+#: ../knowledge-base.php:138
+#: ../knowledge-base.php:149
+msgid "Categories"
+msgstr ""
+
+#: ../knowledge-base.php:139
+#: ../includes/filters.php:15
+msgid "Category"
+msgstr ""
+
+#: ../knowledge-base.php:140
+msgid "Search Categories"
+msgstr ""
+
+#: ../knowledge-base.php:141
+msgid "All Categories"
+msgstr ""
+
+#: ../knowledge-base.php:142
+msgid "Parent Category"
+msgstr ""
+
+#: ../knowledge-base.php:143
+msgid "Parent Category:"
+msgstr ""
+
+#: ../knowledge-base.php:144
+msgid "Edit Category"
+msgstr ""
+
+#: ../knowledge-base.php:145
+msgid "Update Category"
+msgstr ""
+
+#: ../knowledge-base.php:146
+msgid "Add New Category"
+msgstr ""
+
+#: ../knowledge-base.php:147
+msgid "New Category Name"
+msgstr ""
+
+#: ../knowledge-base.php:161
+#: ../knowledge-base.php:172
+msgid "Tags"
+msgstr ""
+
+#: ../knowledge-base.php:162
+msgid "Tag"
+msgstr ""
+
+#: ../knowledge-base.php:163
+msgid "Search Tags"
+msgstr ""
+
+#: ../knowledge-base.php:164
+msgid "All Tags"
+msgstr ""
+
+#: ../knowledge-base.php:165
+msgid "Parent Tag"
+msgstr ""
+
+#: ../knowledge-base.php:166
+msgid "Parent Tag:"
+msgstr ""
+
+#: ../knowledge-base.php:167
+msgid "Edit Tag"
+msgstr ""
+
+#: ../knowledge-base.php:168
+msgid "Update Tag"
+msgstr ""
+
+#: ../knowledge-base.php:169
+msgid "Add New Tag"
+msgstr ""
+
+#: ../knowledge-base.php:170
+msgid "New Tag Name"
+msgstr ""
+
+#: ../knowledge-base.php:230
+#, php-format
+msgid "Search Result for \"%s\""
+msgstr ""
+
+#: ../knowledge-base.php:236
+msgid "KB Archive"
+msgstr ""
+
+#: ../template/knowledgebase-single.php:13
+msgid "Last Updated:"
+msgstr ""
+
+#: ../template/knowledgebase-single.php:13
+msgid "ago"
+msgstr ""
+
+#: ../includes/admin-page.php:8
+msgid "PA Knowledge Base"
+msgstr ""
+
+#: ../includes/admin-page.php:21
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../includes/admin-page.php:48
+msgid "Setup"
+msgstr ""
+
+#: ../includes/admin-page.php:50
+msgid "Knowledge Base Page"
+msgstr ""
+
+#: ../includes/admin-page.php:55
+msgid "Select a page to display knowledge base posts."
+msgstr ""
+
+#: ../includes/admin-page.php:57
+msgid "Knowledge Base Title"
+msgstr ""
+
+#: ../includes/admin-page.php:62
+msgid "Specify knowledge base page title."
+msgstr ""
+
+#: ../includes/admin-page.php:64
+msgid "Knowledge Base Slug"
+msgstr ""
+
+#: ../includes/admin-page.php:69
+msgid "Specify knowledge base url slug."
+msgstr ""
+
+#: ../includes/admin-page.php:71
+msgid "Knowledge Base Category Slug"
+msgstr ""
+
+#: ../includes/admin-page.php:76
+msgid "Specify knowledge base category url slug."
+msgstr ""
+
+#: ../includes/admin-page.php:78
+msgid "Knowledge Base Columns"
+msgstr ""
+
+#: ../includes/admin-page.php:83
+msgid "2 Columns"
+msgstr ""
+
+#: ../includes/admin-page.php:84
+msgid "3 Columns"
+msgstr ""
+
+#: ../includes/admin-page.php:85
+msgid "4 Columns"
+msgstr ""
+
+#: ../includes/admin-page.php:87
+msgid "Select number of columns on knowledge base page."
+msgstr ""
+
+#: ../includes/admin-page.php:89
+msgid "Posts Per Category"
+msgstr ""
+
+#: ../includes/admin-page.php:94
+msgid "3"
+msgstr ""
+
+#: ../includes/admin-page.php:95
+msgid "4"
+msgstr ""
+
+#: ../includes/admin-page.php:96
+msgid "5"
+msgstr ""
+
+#: ../includes/admin-page.php:97
+msgid "7"
+msgstr ""
+
+#: ../includes/admin-page.php:98
+msgid "10"
+msgstr ""
+
+#: ../includes/admin-page.php:99
+msgid "12"
+msgstr ""
+
+#: ../includes/admin-page.php:100
+msgid "16"
+msgstr ""
+
+#: ../includes/admin-page.php:101
+msgid "20"
+msgstr ""
+
+#: ../includes/admin-page.php:102
+msgid "All"
+msgstr ""
+
+#: ../includes/admin-page.php:104
+msgid "Select number of knowledge base posts displayed per category."
+msgstr ""
+
+#: ../includes/admin-page.php:106
+msgid "Category Count"
+msgstr ""
+
+#: ../includes/admin-page.php:111
+#: ../includes/admin-page.php:121
+#: ../includes/admin-page.php:131
+#: ../includes/admin-page.php:141
+msgid "Disabled"
+msgstr ""
+
+#: ../includes/admin-page.php:112
+#: ../includes/admin-page.php:122
+#: ../includes/admin-page.php:132
+msgid "Enabled"
+msgstr ""
+
+#: ../includes/admin-page.php:114
+#: ../includes/admin-page.php:124
+msgid "Enable knowledge base page search field."
+msgstr ""
+
+#: ../includes/admin-page.php:116
+#: ../includes/functions.php:60
+msgid "Search"
+msgstr ""
+
+#: ../includes/admin-page.php:126
+msgid "Reorder"
+msgstr ""
+
+#: ../includes/admin-page.php:134
+msgid "Enable knowledge base posts and categories drag and drop reorder feature."
+msgstr ""
+
+#: ../includes/admin-page.php:136
+msgid "Voting"
+msgstr ""
+
+#: ../includes/admin-page.php:142
+msgid "Public Voting"
+msgstr ""
+
+#: ../includes/admin-page.php:143
+msgid "Logged In Users Only"
+msgstr ""
+
+#: ../includes/admin-page.php:145
+msgid "Enable knowledge base post vote feature."
+msgstr ""
+
+#: ../includes/admin-page.php:147
+msgid "Links Color"
+msgstr ""
+
+#: ../includes/admin-page.php:152
+msgid "Set general link and icon color (leave blank for theme default)."
+msgstr ""
+
+#: ../includes/admin-page.php:154
+msgid "Post Links Color"
+msgstr ""
+
+#: ../includes/admin-page.php:159
+msgid "Set link and icon color for main page post links (leave blank for theme default)."
+msgstr ""
+
+#: ../includes/admin-page.php:162
+msgid "Custom CSS"
+msgstr ""
+
+#: ../includes/admin-page.php:167
+msgid "Add custom CSS code."
+msgstr ""
+
+#: ../includes/filters.php:14
+msgid "Title"
+msgstr ""
+
+#: ../includes/loop.php:123
+msgid "in"
+msgstr ""
+
+#: ../includes/loop.php:179
+msgid "Tags:"
+msgstr ""
+
+#: ../includes/functions.php:116
+#, php-format
+msgid "%s person found this helpful"
+msgid_plural "%s people found this helpful"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/functions.php:117
+#, php-format
+msgid "%s person did not find this helpful"
+msgid_plural "%s people did not find this helpful"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/functions.php:118
+msgid "I found this helpful"
+msgstr ""
+
+#: ../includes/functions.php:119
+msgid "I did not find this helpful"
+msgstr ""
+
+#: ../includes/widget/knowledgebase-search.php:9
+msgid "Knowledge Base Search"
+msgstr ""
+
+#: ../includes/widget/knowledgebase-latest.php:6
+#: ../includes/widget/knowledgebase-latest.php:7
+#: ../includes/widget/knowledgebase-latest.php:19
+#: ../includes/widget/knowledgebase-latest.php:54
+#: ../includes/widget/knowledgebase-latest.php:62
+msgid "Latest Knowledge Base"
+msgstr ""
+
+#: ../includes/widget/knowledgebase-latest.php:9
+msgid "Knowledge Base Latest"
+msgstr ""
+
